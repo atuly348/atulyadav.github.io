@@ -1,0 +1,112 @@
+.to{
+background-color:#E8F9FD;
+margin: 0;
+position: relative;
+padding-top: 100px;
+}
+body{
+  color: #40514;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+.top{
+  position: absolute;
+right: 150px;
+top: 40px;
+}
+.bot{
+  position: absolute;
+left: 100px;
+top:200px;
+}
+.webdev{
+  width: 25%;
+  float: left;
+  margin-right:30px;
+}
+.moun
+{
+margin-top: 50px;
+}
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 563%;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+text-align: left;
+}
+h2
+{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom:10px;
+}
+h3
+{
+  color: #11999E;
+}
+.middle-container{
+  margin: 100px 0;
+}
+p{
+  line-height: 2;
+}
+hr
+{
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto 100px auto;
+
+}
+.at{
+  width: 30%;
+  margin: 40px auto 70px;
+}
+
+  .btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.bottom-container{
+  margin: 50px auto;
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
